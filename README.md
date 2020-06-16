@@ -1,3 +1,4 @@
-# Wipro-Talent-Nest-2020
+#Wipro Talent Next
 
-A collection of Java programs for the practice of Wipro Talent Next
+
+The best way to learn Java programming is by practicing examples. This reposistory contains examples on basic concepts of Java
